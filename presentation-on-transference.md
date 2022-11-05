@@ -1,20 +1,20 @@
 <!-- It is striking that heretofore no one has stressed that the case of Dora is laid out by Freud in the form of a series of dialectical reversals. This is not a mere contrivance for presenting material whose emergence is left up to the patient, as Freud clearly states here. What is involved is a scansion of structures in which truth is transmuted for the subject, structures that affect not only her comprehension of things, but her very position as a subject, her "objects" being a function of that position. This means that the conception of the case history is identical to the progress of the subject, that is, to the reality of the treatment. -->
-このドラの症例がフロイトによって弁証法的裏返しの連続という形で提示されていることをこれまで誰も強調しなかったのは驚くべきことである。フロイトがここで明確に述べているように、これは、その出現が患者に任されているところの材料を提示するための単なる工夫ではない。これが含んでいるのは或る構造の韻律分析〔スカンシオン〕であり、それは彼女〔ドラ〕の物事の理解に影響するだけでなく、彼女の「対象」がその位置の機能であるような主体としての彼女の位置そのものに影響を与える。つまり、症例の理解は、主体の歩み、すなわち治療の現実と**同一**なのである。
+このドラの症例がフロイトによって弁証法的裏返しの連続という形で提示されている、ということをこれまで誰も強調しなかったのは驚くべきことである。フロイトがここで明確に述べているように、これは、その出現が患者に任されているところの材料を提示するための単なる工夫ではない。これが含んでいるのは或る構造の韻律分析〔スカンシオン〕であり、それは彼女〔ドラ〕の物事の理解に影響するだけでなく、彼女の「対象」がその位置の機能であるような主体としての彼女の位置そのものに影響を与える。つまり、症例の理解は、主体の歩み、すなわち治療の現実と**同一**なのである。
 
 <!-- Now, this is the first time Freud uses the term "transference" as the con  cept of the obstacle owing to which the analysis broke down. This alone gives the examination I will conduct here of the dialectical relations that constituted the moment of failure its value, at the very least, as a return to the source. I will attempt hereby to define in terms of pure dialectic the transference that is said to be negative on the part of the subject as the doing [operation] of the analyst who interprets it. -->
-ところで、フロイトが、それが原因で分析が破綻してしまうような障害の概念として「転移」という言葉を使ったのはこのときが初めてである。このことだけでも、私がここで行う、失敗の瞬間を構成した弁証法的関係の検討は、少なくとも、起源への回帰としての価値を持つことになる。私はここで、この主体〔ドラ〕においては陰性的だと言われる転移を、それを解釈する分析家の操作［operation］として、**純粋弁証法の観点から定義**しようと思う。
+ところで、フロイトが、それが原因で分析が破綻してしまうような障害の概念として「転移」という言葉を使ったのはこのときが初めてである。このことだけでも、私がここで行う、失敗の瞬間を構成した弁証法的関係の検討は、少なくとも、起源への回帰としての価値を持つことになる。私はここで、この主体〔ドラ〕においては陰性転移だと言われる転移を、それを解釈する分析家の操作<!-- ［operation］ -->として、**純粋弁証法の観点から定義**しようと思う。
 
 <!-- We shall, however, have to review all the phases that led up to this moment, and examine it in terms of the problematic anticipations which, in the facts of the case, indicate where it might have found a successful outcome. Thus we find: -->
-しかしながら私たちは、この瞬間に至るまでのすべての段階を再検討し、そして、この症例の事実関係において成功の結果を見出すことができたかもしれない場所を示すような問題提起的な予想〔を与える〕という観点から、これを検討しなければならない。こうして私たちは以下のようなことを見出す。
+しかしながら私たちは、この瞬間に至るまでのすべての段階を再検討し、そして、この症例の事実関係において成功の結果を見出すことができたかもしれない場所を示すような問題提起的な予想を与えるという観点から、これを検討しなければならない。こうして私たちは以下のようなことを見出す。
 
 <!-- A first development, which is exemplary in that it takes us straight to the level of the assertion of truth. For Dora, having tested Freud to see if he would prove to be as hypocritical as her father, begins her indictment by opening up a file full of memories whose rigor contrasts with the lack of biographical pre  cision characteristic of neurosis: Frau K and her father have been lovers for so many years, and have been hiding it with what are at times ridiculous fic  tions; but what takes the cake is that Dora is thus offered up defenseless to Herr K's attentions, to which her father turns a blind eye, thus making her the object of an odious exchange. -->
-**第一の展開**は、真実を断言するレベルにまで私たちをまっすぐに導くという点で模範的である。ドラは、フロイトが父親と同じように偽善者であることを証明するかどうか試したあと、記憶の詰まったファイルを開いて告発を始める。その記憶の厳密さは、神経症に特有の伝記の正確さの欠如とは対照的である。K夫人と彼女の父親は長年にわたって恋人同士であり、それをときに馬鹿げた作り話で隠してきた。しかし、極めつけは、ドラが無防備にK夫人の注意を引き、それを父親が見て見ぬふりをして、彼女をじつに不快な交換の対象にしていることである。
+すなわち、**第一の展開**を見出す。これは真実を断言するレベルにまで私たちをまっすぐに導くという点で模範的である。ドラは、フロイトが父親と同じように偽善者であることを証明するかどうか試したあと、記憶の詰まったファイルを開いて告発を始める。その記憶の厳密さは、神経症に特有の伝記の正確さの欠如とは対照的である。K夫人と彼女の父親は長年にわたって恋人同士であり、それをときに馬鹿げた作り話で隠してきた。しかし、極めつけは、ドラが無防備にK夫人の注意を引き、それを父親が見て見ぬふりをして、彼女をじつに不快な交換の対象にしていることである。
 
 <!-- by it, even from the mouth of a man he believes owes him the whole story. He therefore has no difficulty in removing from the patient's mind any imputa  tion of complicity regarding this lie. But at the end of this development he finds himself faced with a question, which is classic in the first stages of treat  ment: "All of this is factual, being based on reality and not on my own will. What's to be done about it? " To which Freud replies with: -->
 フロイトは、社会において嘘が恒常的であることについてあまりに通暁していたので、たとえ自分に全容を語る義務があると彼が信じている人物〔K氏〕の口からであっても、それに騙されることはなかった。したがってフロイトは、この嘘に関する共犯の疑いを患者の心から取り除くことには何の困難もなかった。しかし、このような展開の果てに、治療の最初の段階に典型的であるような、こんな疑問に直面することになる。「これらすべては事実であって、私の意志ではなく、現実に基づいていることです。これに対して〔あなたは〕いったい何ができるのでしょうか」。フロイトはこれに対して次のように答える。
 
 <!-- A first dialectical reversal, which in no wise pales next to Hegel's analysis of the claim made by the "beautiful soul" who rises up against the world in the name of the law of the heart: "Look at your own involvement," he tells her, "in the mess [desordre] you complain of" (p. 32). 4What then appears is: -->
-**第一の弁証法的裏返し**。これは、心の法則の名のもとに世界に対して反逆する「美しい魂」の主張に対するヘーゲルの分析に比べても決して見劣りしない。フロイトは彼女にこう言うのだ。「あなたが訴えているゴタゴタ［désordre］に対して、あなた自身が関わっていることを見なさい」（p.32[^4]）と。すると次のことが明らかになる。
+すなわち、**第一の弁証法的裏返し**によって答える。これは、心の法則の名のもとに世界に対して反逆する「美しい魂」の主張に対するヘーゲルの分析に比べても決して見劣りしない。フロイトは彼女にこう言うのだ。「あなたが訴えているゴタゴタ<!-- ［désordre］ -->に対して、あなた自身が関わっていることを見なさい」（p.32[^4]）と。すると次のことが明らかになる。
 
 <!-- A second development of truth, namely, that it was not on the basis of Dora's mere silence, but of her complicity and even vigilant protection, that the fic  tion had been able to last which allowed the relationship between the two lovers to continue. -->
 すなわち、**第二の真実の展開**が明らかになる。それはつまり、ドラが単に沈黙していることによってではなく、彼女自身の共謀と、ひいては抜かりのない庇護に基づいてこそ、二人の恋人たち〔父とK夫人〕の関係を継続させるというフィクションを持続させることができた、ということである。
@@ -26,7 +26,7 @@
 〔訳者注〕
 Ｋ夫人→Ｋ氏
 　↑　　↓
-　父　　ドラ
+　父　ドラ
 ```
 
 <!-- At the same time Dora's Oedipal relation turns out to be grounded in an identification with her father, which is fostered by his sexual impotence and is, moreover, experienced by Dora as identical to his supervalent status as rich; this is betrayed by the unconscious allusion Dora is allowed by the semantics of the word "rich" [fortune] in German: Vermogen. Indeed, this identification was apparent in all the conversion symptoms presented by Dora, a large num  ber of which were removed by this discovery. -->
@@ -84,20 +84,19 @@
 しかしフロイトはこの説明を与えるたびに——分析的教義におけるこの説明のその後の展開はよく知られている——脚注で別の説明をしている。それは、ドラとK夫人との間の同性愛的な結びつきを十分に理解していなかったということである。
 
 <!-- What does this mean if not that the second reason only struck him truly as the most crucial in 1923, whereas the first bore fruit in his thinking beginning in 1905, the year the Dora case study was published? -->
-このことは、二番目の理由〔解釈を延期したせいだ〕が1923年になってようやく最も重要なものとして彼に認識されたのに対して、一番目の理由〔転移の作用のせいだ〕は、ドラの事例研究が発表された1905年以来ずっと彼の考えの中で実を結んでいたのだとしたら、何を意味するのだろうか。
+このことは、二番目の理由〔解釈を延期した〕が1923年になってようやく最も重要なものとして彼に認識されたのに対して、一番目の理由〔転移の作用〕は、ドラの事例研究が発表された1905年以来ずっと彼の考えの中で実を結んでいたのだとしたら、何を意味するのだろうか。
 
 <!-- Which side should we choose? Surely that of believing both accounts and attempting to grasp what can be deduced from their synthesis. -->
 私たちはどちらを選ぶべきなのだろうか。それはきっと、両方の説明を信じて、その総合から何が推測されるかを把握しようとするほうだろう。
 
 <!-- What we then find is this: Freud admits that for a long time he was unable to face this homosexual tendency (which he nonetheless tells us is so constant in hysterics that its subjective role cannot be overestimated) without falling into a state of distress (p. 107, note) 14that rendered him incapable of dealing with it satisfactorily. -->
-そして、私たちが発見したのは、次のようなことである。それは、フロイトは長い間、この同性愛傾向に対して苦痛（107頁、脚注[^14]）に陥ることなしに直面することができず、そのけっか満足に対処することができなくなったことを認めている、ということだ（にもかかわらず彼は、こうした同性愛的傾向はヒステリー者においてきわめて一定不変のものであって、その主観的な役割は評価してもしすぎることはない、とも伝えている）。
+そして、私たちが発見したのは、次のようなことである。それは、フロイトは長い間、この同性愛傾向に対して苦痛（107頁脚注[^14]）に陥ることなしに直面することができず、そのけっか満足に対処することができなくなったことを認めている、ということだ（にもかかわらず彼は、こうした同性愛的傾向はヒステリー者においてきわめて一定不変のものであって、その主観的な役割は評価してもしすぎることはない、とも伝えている）。
 
 <!-- I would say that this has to be ascribed to a bias, the very same bias that fal  sifies the conception of the Oedipus complex right from the outset, making him consider the predominance of the paternal figure to be natural, rather than normative—the same bias that is expressed simply in the well-known refrain, " Thread is to needle as girl is to boy." -->
 これは偏見に起因すると言わざるをえない。それは、エディプス・コンプレックスという概念を最初から否定し、父性の優位を規範的ではなく自然的なものだと考えるような偏見と全く同じものである。そしてまた、よく知られた「糸は針のためのもの、女の子は男の子のためのもの」という言葉に端的に表れているような偏見とも同じものである。
 
 <!-- Freud has felt kindly toward Herr K for a long time, since it was Herr K who brought Dora's father to Freud (p. 18), 15and this comes out in numer  ous comments he makes (p. 27, note). 16After the treatment founders, Freud persists in dreaming of a "victory of love" (p. 99).17 -->
-フロイトは、ドラの父親をフロイトのところに連れてきたのがK氏であったことから、K氏に対して長い間好意を抱いており（18頁[^15]）、それが彼の数々の発言に現れている（27頁、脚注[^16]）。治療の座礁の後も、フロイトは「愛の勝利」を夢見ることに固執する（99 頁[^17]）。<!-- Freud has felt kindly toward Herr K for a long time, since it was Herr K who brought Dora's father to Freud (p. 18), 15and this comes out in numer  ous comments he makes (p. 27, note). 16After the treatment founders, Freud persists in dreaming of a "victory of love" (p. 99).17 -->
-フロイトは、ドラの父親をフロイトのところに連れてきたのがK氏であったことから、K氏に対して長い間好意を抱いており（18頁[^15]）、それが彼の数々の発言に現れている（27頁、脚注[^16]）。治療の座礁の後も、フロイトは「愛の勝利」を夢見ることに固執している（99 頁[^17]）。
+フロイトは、ドラの父親をフロイトのところに連れてきたのがK氏であったことから、K氏に対して長い間好意を抱いており（18頁[^15]）、それが彼の数々の発言に現れている（27頁脚注[^16]）。治療の座礁の後も、フロイトは「愛の勝利」を夢見ることに固執している（99 頁[^17]）。
 
 <!-- Freud admits to his personal investment in Dora, interesting him as she does, at many points in the account. The truth of the matter is that she brings the whole case alive in a way which, vaulting the theoretical digressions, elevates this text, among the psychopathological monographs that constitute a genre in our literature, to the tone of a Princesse de Cleves bound by an infernal gag. -->
 フロイトはドラへの個人的な投資を認めており、ドラが彼に興味を抱くのと同じような仕方で、説明の多くの箇所でドラに興味を示している。実際、彼女はこの事件の全貌を生き生きと描き出しており、理論的な脱線を飛び越えて、このテキストを、わが国の文学の一ジャンルを構成する精神病理学的モノグラフの中で、地獄の猿ぐつわに縛られたクレヴス王女のような調子へと高めているのである。
@@ -112,7 +111,7 @@
 では、湖畔での宣言の場面で何が起こったのだろうか。ドラを病気に追いやった大惨事は皆に彼女を病気だと認識させたが、これは皮肉にも、皆に共通の弱さの支えとして働き続けることを拒否する彼女の反応だった（神経症の「疾病利得」がすべて神経症者にのみ有利に働くわけではないのだ）。
 
 <!-- As in any valid interpretation, we need but stick to the text in order to understand it. Herr K could only get in a few words, decisive though they were: "My wife is nothing to me." His reward for this feat was instantaneous—a hard slap (whose burning after-effects Dora felt long after the treatment had ended in the form of a transitory neuralgia) quipped back to the blunderer, "If she is nothing to you, then what are you to me? " -->
-どのような妥当な解釈においてもそうであるように、理解するためには私たちはテクストに忠実でなければならない。K氏はほんの数言しか喋れなかったが、決定的だったのはこれである。「妻など私にとっては何でもない」。この功績に対して彼は即座に返礼を受け取った——平手打ちである（その焼けるような後遺症を、ドラは治療が終わった後も一過性の神経痛という形でずっと感じていた）。その平手打ちはこのうっかり屋にこう皮肉ったのである。「彼女があなたにとって何でもないのなら、あなたは私にとって何なのですか？」
+どのような妥当な解釈においてもそうであるように、理解するためには私たちはテクストに忠実でなければならない。K氏はほんの数言しか喋れなかったが、決定的だったのはこれである。「妻など私にとっては何でもない」。この功績に対して彼は即座に返礼を受け取った——平手打ちである（その焼けるような後遺症を、ドラは治療が終わった後も一過性の神経痛という形でずっと感じていた）。その平手打ちはこのうっかり屋にこう皮肉ったのである。「あなたにとって彼女が何でもないのなら、私にとってあなたとは何なのですか？」
 
 <!-- What then would he be to her, this puppet who had nonetheless just broken the spell she had been living under for years? -->
 それにしても、この〔K氏という〕操り人形は彼女にとって何なのだろうか。それは確かに、何年もかかってきた彼女の呪縛を解き放ったのだ。
@@ -127,7 +126,7 @@
 この時点で彼女は皆に真実を認めさせたのだが、しかしそれが真実であっても最終的な真実ではないことを知っていた。そして彼女は、自分が姿を見せるという呪力によって、不幸なK氏を馬車の車輪の下に沈めることに成功したのだ。治療の第二段階でもたらされた彼女の症状の沈静化は、それにもかかわらず持続した。このように弁証法的過程の停止は見かけ上の後退をもたらしたが、奪回された位置は自我の肯定によってのみ保持され、それは進歩とみなすことができるのである。
 
 <!-- What then is this transference whose work, Freud states somewhere, goes on invisibly behind the progress of the treatment and whose effects, furthermore, are "not susceptible of definite proof " (p. 67)? 19 Can it not be considered here to be an entity altogether related to countertransference, defined as the sum total of the analyst's biases, passions, and difficulties, or even of his inadequate information, at any given moment in the dialectical process? Doesn't Freud himself tell us (p. 105) 20 that Dora might have transferred the paternal figure onto him, had he been foolish enough to believe the version of things her father had presented to him? -->
-では、フロイトがどこかで述べている、治療の進行の背後で**目に見えない形で**進行し、しかもその効果が「明確な証明はできない」（p.67）転移とは何なのだろうか[^19]。ここではそれは、弁証法的プロセスの任意の瞬間における分析者の偏見、情熱、困難、あるいは不十分な情報の総体として定義される逆転移と完全に相関するような存在だ、と考えることはできないだろうか。フロイト自身は、もし父親が自分に提示した物事のバージョンを信じるほど愚かであったなら、ドラが父親の姿を自分に転移したかもしれない（p. 105[^20]）と語ってはいなかっただろうか。
+では、フロイトがどこかで述べている、治療の進行の背後で**目に見えない形で**進行し、しかもその効果が「明確な証明はできない」（p.67[^19]）転移とは何なのだろうか。ここではそれは、弁証法的プロセスの任意の瞬間における分析者の偏見、情熱、困難、あるいは不十分な情報の総体として定義される逆転移と完全に相関するような存在だ、と考えることはできないだろうか。フロイト自身は、もし父親が自分に提示した物事のバージョンを信じるほど愚かであったなら、ドラが父親の姿を自分に転移したかもしれない（p. 105[^20]）と語ってはいなかっただろうか。
 
 <!-- In other words, transference is nothing real in the subject if not the appearance, at a moment of stagnation in the analytic dialectic, of the permanent modes according to which she constitutes her objects. -->
 言い換えれば、分析的弁証法が停滞しているときに主体が自分の対象を構成する永続的な様式が現れるのでなければ、主体にとって転移は現実的なものではないのである。
@@ -136,13 +135,13 @@
 では、転移を解釈するとはどういうことか。それは、この停止した状態の空虚さを<ruby>囮<rt>ルアー</rt></ruby>で満たすことにほかならない。この<ruby>囮<rt>ルアー</rt></ruby>は騙すものではあるとしても、すべてのプロセスを新たに動き出させるという目的をもっている。
 
 <!-- The denial [denegation] with which Dora would have greeted any sugges  tion by Freud that she was imputing to him the same intentions as those that Herr K had displayed, would not in any way have changed the scope of the suggestion's effects. The very opposition to which it would have given rise would probably, despite Freud, have set Dora off in the right direction: the one that would have led her to the object of her real interest. -->
-あなたはK氏と同じような意図を私に託していますね、とフロイトが示唆したとき、ドラはそれを否認［dénegation］したのだが、そうだとしても、それによって示唆の効果の及ぶ範囲は何ら変わることはなかっただろう。その反発こそが、フロイトに反して、ドラを正しい方向へ向かわせたはずである。すなわち、彼女が本当に興味のあるものへと導くものだったはずである。
+あなたはK氏と同じような意図を私に託していますね、とフロイトが示唆したとき、ドラはそれを否認<!-- ［dénegation］ -->したのだが、そうだとしても、それによって示唆の効果の及ぶ範囲は何ら変わることはなかっただろう。その反発こそが、フロイトに反して、ドラを正しい方向へ向かわせたはずである。すなわち、彼女が本当に興味のあるものへと導くものだったはずである。
 
 <!-- And to have set himself up personally as a substitute for Herr K would have spared Freud from overemphasizing the value of Herr K's marriage proposals. -->
 そして、自分自身をK氏の代理として設定することで、フロイトはK氏の求婚の価値を過剰に強調せずにすんだのである。
 
 <!-- Thus transference does not fall under any mysterious property of affectivity and, even when it reveals itself in an emotional [e'moi] guise, this guise has a meaning only as a function of the dialectical moment at which it occurs. -->
-したがって、転移は情動の神秘的な性質には該当しない。たとえそれが情動［émoi］の装いをもって姿を現したとしても、この装いはそれが発生した弁証法的契機の機能としてのみ意味を持つのである。
+したがって、転移は情動の神秘的な性質には該当しない。たとえそれが情動<!-- ［émoi］ -->の装いをもって姿を現したとしても、この装いはそれが発生した弁証法的契機の機能としてのみ意味を持つのである。
 
 <!-- But this moment is of no great significance since it normally signals an error on the analyst's part, if only that of wanting what is good for the patient to too great an extent, a danger Freud warned against on many occasions. -->
 しかし、この契機は大きな意義を持たない。というのもそれは通常、分析家の側の誤りを告げるものだからだ。たとえそれが患者のためになることを過度に望むということであったとしても、これはフロイトは多くの場面でその危険性に警告を発しているものなのである。
@@ -151,7 +150,7 @@
 このように、分析的中立性は、純粋弁証法家の立場からその真正な意味を導き出す。純粋弁証法家は、実在するものはすべて合理的であることを知り（逆もまた然り）、彼が闘う悪を含む存在するものはすべてその特殊性の水準と常に同等であり、主体は自分の立場を普遍に統合することによってのみ進歩する、厳密に言えば、彼の過去の投影を通して、生成の過程の言説に至ることを知っているのだ。
 
 <!-- The case of Dora is especially relevant for demonstrating this in that, since it involves an hysteric, the screen of the ego is transparent enough for there never to be, as Freud said, a lower threshold between the unconscious and the conscious, or better, between analytic discourse and the key [mot] to the symptom. -->
-ドラの症例は、このことを示すのに特に適切である。これはヒステリーを扱ったものなので、自我のスクリーンは透明であり、フロイトが言ったように、無意識と意識の間の、あるいは分析的言説と症状の鍵［mot］の間の閾がこれ以上低くなることはないほどなのである。
+ドラの症例は、このことを示すのに特に適切である。これはヒステリーを扱ったものなので、自我のスクリーンは透明であり、フロイトが言ったように、無意識と意識の間の、あるいは分析的言説と症状の鍵<!-- ［mot］ -->の間の閾がこれ以上低くなることはないほどなのである。
 
 <!-- I believe, however, that transference always has the same meaning of indi  cating the moments where the analyst goes astray and takes anew his bearings, and the same value of reminding us of our role: that of a positive nonaction aiming at the ortho-dramatization of the patient's subjectivity. -->
 しかし、私は、転移はつねに同じ意味を持っていると信じている。すなわち、分析家が道を踏み外し、あらためて自分の位置を確認する契機を示すという意味と、私たちの役割、すなわち、患者の主観の正劇化を目指す積極的な無関与を思い起こさせるという同じ価値があるのだ。
@@ -160,15 +159,15 @@
 [^5]: PUF, 39; SE VII, 54.
 [^6]: PUF, 12 and 37; SE VII, 21 and 51.
 [^7]: PUF, 27; SE VII, 39-40.
-PUF, 33; SE VII, 47^8.
-[^8]: PUF, 33; SE VII, 47^8.
+PUF, 33; SE VII, 47-8.
+[^8]: PUF, 33; SE VII, 47-8.
 [^9]: PUF, 54; SE VII, 73-74.
 [^10]: PUF, 90 [footnote 1]; SE VII, 120, footnote 1.
 [^11]: PUF, 86-90; SE VII, 115-20.
 [^12]: PUF, 89; SE VII, 118-19.
 [^13]: PUF, 89; SE VII, 118-19.
 [^14]: PUF, 90 [footnote 1]; SE VII, 120, footnote 1.
-[^15]: PUF, 11; 5 ^ VII, 19.
+[^15]: PUF, 11; SE VII, 19.
 [^16]: PUF, 19 [footnote 1]; SE VII, 29, footnote 3.
 [^17]: PUF, 82; SE VII, 109-10.
 [^18]: PUF, 77-78; SE VII, 103-5.
