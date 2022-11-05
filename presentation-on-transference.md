@@ -1,3 +1,11 @@
+<!-- Presentation on Transference -->
+## 転移に関する発言
+
+<!-- Given at the 1951 Congress of "Romance Language—Speaking Psychoanalysts " -->
+<!-- 1951年「ロマンス語圏の精神分析家」会議で発表 -->
+
+〔前略〕
+
 <!-- It is striking that heretofore no one has stressed that the case of Dora is laid out by Freud in the form of a series of dialectical reversals. This is not a mere contrivance for presenting material whose emergence is left up to the patient, as Freud clearly states here. What is involved is a scansion of structures in which truth is transmuted for the subject, structures that affect not only her comprehension of things, but her very position as a subject, her "objects" being a function of that position. This means that the conception of the case history is identical to the progress of the subject, that is, to the reality of the treatment. -->
 このドラの症例がフロイトによって弁証法的裏返しの連続という形で提示されている、ということをこれまで誰も強調しなかったのは驚くべきことである。フロイトがここで明確に述べているように、これは、その出現が患者に任されているところの材料を提示するための単なる工夫ではない。これが含んでいるのは或る構造の韻律分析〔スカンシオン〕であり、それは彼女〔ドラ〕の物事の理解に影響するだけでなく、彼女の「対象」がその位置の機能であるような主体としての彼女の位置そのものに影響を与える。つまり、症例の理解は、主体の歩み、すなわち治療の現実と**同一**なのである。
 
@@ -25,8 +33,8 @@
 ```
 〔訳者注〕
 Ｋ夫人→Ｋ氏
-　↑　　↓
-　父　ドラ
+　↑　　 ↓
+　父　　ドラ
 ```
 
 <!-- At the same time Dora's Oedipal relation turns out to be grounded in an identification with her father, which is fostered by his sexual impotence and is, moreover, experienced by Dora as identical to his supervalent status as rich; this is betrayed by the unconscious allusion Dora is allowed by the semantics of the word "rich" [fortune] in German: Vermogen. Indeed, this identification was apparent in all the conversion symptoms presented by Dora, a large num  ber of which were removed by this discovery. -->
