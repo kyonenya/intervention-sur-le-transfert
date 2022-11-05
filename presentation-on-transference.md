@@ -1,8 +1,10 @@
 <!-- Presentation on Transference -->
 ## 転移に関する発言
 
+ジャック・ラカン
+
 <!-- Given at the 1951 Congress of "Romance Language—Speaking Psychoanalysts " -->
-<!-- 1951年「ロマンス語圏の精神分析家」会議で発表 -->
+1951年「ロマンス語圏の精神分析家」会議での発表
 
 〔前略〕
 
@@ -59,7 +61,7 @@
 すなわち、**第三の弁証法的裏返し**へと導いてくれる。それはK夫人 がドラにとっての対象であることの真価を明らかにするものである。K夫人は単なる一個人ではなく、ひとつの謎であり、それはドラ自身の女性性の謎、つまり彼女の身体的女性性の謎である。それは、症例の第二部を成す二つの夢のうちの二番目のなかに偽装されずに現れている。
 
 <!-- The boundary post we must go around in order to reverse course one last time already appears within reach. It is the most distant image that Dora retrieves from her early childhood (didn't all the keys always fall into Freud's hands, even in those cases that were broken off like this one?): that of Dora, probably still an infant, sucking her left thumb, while with her right hand she tugs at the ear of her brother, who is her elder by a year and a half (pp. 20 and 47).6 -->
-最後にもう一度軌道修正するために迂回しなければならない境界線が、すでに手の届くところにあるように見える。それは、ドラが幼児期から取り出した最も遠いイメージである（このように中断したケースでも、すべての鍵はいつもフロイトの手の中にあったのではないだろうか）。おそらくまだ乳児だったドラが、左手の親指をしゃぶりながら、右手で一歳半年上の兄の耳をひっぱっている（20頁、47頁[^6]）。
+最後にもう一度軌道修正するために迂回しなければならない境界線が、すでに手の届くところにあるように見える。それは、ドラが幼児期から取り出した最も遠いイメージである（このように中断したケースでも、すべての鍵はいつもフロイトの手の中にあったのではないだろうか）。おそらくまだ乳児だったドラが、左手の親指をしゃぶりながら、右手で一歳半年上の兄の耳をひっぱっている（p. 20; p. 47[^6]）。
 
 <!-- What we seem to have here is the imaginary mold in which all the situa  tions orchestrated by Dora during her life came to be cast—a perfect illus  tration of the theory, yet to appear in Freud's work, of repetition automatisms. We can gauge in it what woman and man signify to her now. -->
 ここにあるのは、ドラがその生涯で演じたすべての状況を型取る想像的な鋳型であり、フロイトの著作にまだ登場していない、反復的自動症という理論の完璧な例証であるように思われる。その中で、女と男がいま彼女にとって何を意味するのかを測ることができる。
@@ -86,7 +88,7 @@
 したがって、もしフロイトが第三の弁証法的裏返しにおいて、ドラに、二人の関係の最も深い秘密を告白させることで、自分にとってK夫人とは何であるかについての認識に向かわせたとしたら、それは彼の威信（ここでは単に陽性転移の意味の問題に触れている）に貢献し、彼女が〔フロイトを〕男性的対象として認識する道を開いたのではないだろうか。これは私の意見ではなく、フロイトの意見である（p.107[^10]）。
 
 <!-- But the fact that his failure to do so was fatal to the treatment is attributed by Freud to the action of the transference (pp. 103-7), [^11] to his error that makes him put off the interpretation thereof (p. 106), [^12] when, as he was able to ascertain after the fact, he had only two hours left to sidestep its effects (p. 106).[^13] -->
-しかしフロイトは、彼の失敗が治療に致命的な影響を与えたという事実〔の原因〕を、転移の作用（103-7頁[^11]）、その解釈を先送りにする彼の失敗（106頁[^12]）、そして、彼が事後的に確認できたように、その影響を回避するために残された時間が2時間しかなかった（106頁[^13]）ことのせいにしている。
+しかしフロイトは、彼の失敗が治療に致命的な影響を与えたという事実〔の原因〕を、転移の作用（pp. 103–7[^11]）、その解釈を先送りにする彼の失敗（p. 106[^12]）、そして、彼が事後的に確認できたように、その影響を回避するために残された時間が2時間しかなかった（p. 106[^13]）ことのせいにしている。
 
 <!-- But each time he proffers this explanation—whose subsequent develop  ment in analytic doctrine is well known—a footnote provides recourse to another explanation: his inadequate appreciation of the homosexual tie bind  ing Dora to Frau K. -->
 しかしフロイトはこの説明を与えるたびに——分析的教義におけるこの説明のその後の展開はよく知られている——脚注で別の説明をしている。それは、ドラとK夫人との間の同性愛的な結びつきを十分に理解していなかったということである。
@@ -98,13 +100,13 @@
 私たちはどちらを選ぶべきなのだろうか。それはきっと、両方の説明を信じて、その総合から何が推測されるかを把握しようとするほうだろう。
 
 <!-- What we then find is this: Freud admits that for a long time he was unable to face this homosexual tendency (which he nonetheless tells us is so constant in hysterics that its subjective role cannot be overestimated) without falling into a state of distress (p. 107, note) 14that rendered him incapable of dealing with it satisfactorily. -->
-そして、私たちが発見したのは、次のようなことである。それは、フロイトは長い間、この同性愛傾向に対して苦痛（107頁脚注[^14]）に陥ることなしに直面することができず、そのけっか満足に対処することができなくなったことを認めている、ということだ（にもかかわらず彼は、こうした同性愛的傾向はヒステリー者においてきわめて一定不変のものであって、その主観的な役割は評価してもしすぎることはない、とも伝えている）。
+そして、私たちが発見したのは、次のようなことである。それは、フロイトは長い間、この同性愛傾向に対して苦痛（p. 107 脚注[^14]）に陥ることなしに直面することができず、そのけっか満足に対処することができなくなったことを認めている、ということだ（にもかかわらず彼は、こうした同性愛的傾向はヒステリー者においてきわめて一定不変のものであって、その主観的な役割は評価してもしすぎることはない、とも伝えている）。
 
 <!-- I would say that this has to be ascribed to a bias, the very same bias that fal  sifies the conception of the Oedipus complex right from the outset, making him consider the predominance of the paternal figure to be natural, rather than normative—the same bias that is expressed simply in the well-known refrain, " Thread is to needle as girl is to boy." -->
 これは偏見に起因すると言わざるをえない。それは、エディプス・コンプレックスという概念を最初から否定し、父性の優位を規範的ではなく自然的なものだと考えるような偏見と全く同じものである。そしてまた、よく知られた「糸は針のためのもの、女の子は男の子のためのもの」という言葉に端的に表れているような偏見とも同じものである。
 
 <!-- Freud has felt kindly toward Herr K for a long time, since it was Herr K who brought Dora's father to Freud (p. 18), 15and this comes out in numer  ous comments he makes (p. 27, note). 16After the treatment founders, Freud persists in dreaming of a "victory of love" (p. 99).17 -->
-フロイトは、ドラの父親をフロイトのところに連れてきたのがK氏であったことから、K氏に対して長い間好意を抱いており（18頁[^15]）、それが彼の数々の発言に現れている（27頁脚注[^16]）。治療の座礁の後も、フロイトは「愛の勝利」を夢見ることに固執している（99 頁[^17]）。
+フロイトは、ドラの父親をフロイトのところに連れてきたのがK氏であったことから、K氏に対して長い間好意を抱いており（p. 18[^15]）、それが彼の数々の発言に現れている（p. 27 脚注[^16]）。治療の座礁の後も、フロイトは「愛の勝利」を夢見ることに固執している（p. 99[^17]）。
 
 <!-- Freud admits to his personal investment in Dora, interesting him as she does, at many points in the account. The truth of the matter is that she brings the whole case alive in a way which, vaulting the theoretical digressions, elevates this text, among the psychopathological monographs that constitute a genre in our literature, to the tone of a Princesse de Cleves bound by an infernal gag. -->
 フロイトはドラへの個人的な投資を認めており、ドラが彼に興味を抱くのと同じような仕方で、説明の多くの箇所でドラに興味を示している。実際、彼女はこの事件の全貌を生き生きと描き出しており、理論的な脱線を飛び越えて、このテキストを、わが国の文学の一ジャンルを構成する精神病理学的モノグラフの中で、地獄の猿ぐつわに縛られたクレヴス王女のような調子へと高めているのである。
