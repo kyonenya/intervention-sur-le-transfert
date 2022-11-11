@@ -27,7 +27,7 @@
 すなわち、**第一の弁証法的裏返し**によって答える。これは、心の法則の名のもとに世界に対して反逆する「美しい魂」の主張に対するヘーゲルの分析に比べても決して見劣りしない。フロイトは彼女にこう言うのだ。「あなたが訴えているゴタゴタ<!-- ［désordre］ -->に対して、あなた自身が関わっていることを見なさい」（p.32[^4]）と。すると次のことが明らかになる。
 
 <!-- A second development of truth, namely, that it was not on the basis of Dora's mere silence, but of her complicity and even vigilant protection, that the fic  tion had been able to last which allowed the relationship between the two lovers to continue. -->
-すなわち、**第二の真実の展開**が明らかになる。それはつまり、ドラが単に沈黙していることによってではなく、彼女自身の共謀と、ひいては抜かりのない庇護に基づいてこそ、二人の恋人たち〔父とK夫人〕の関係を継続させるというフィクションを持続させることができた、ということである。
+すなわち、**第二の真実の展開**が明らかになる。それはつまり、ドラが単に沈黙していることによってではなく、彼女自身の共謀と、ひいては抜かりのない庇護に基づいてこそ、二人の恋人たち〔父親とK夫人〕の関係を継続させるというフィクションを持続させることができた、ということである。
 
 <!-- What can be seen here is not simply Dora's participation in Herr K's courtship of which she is the object; new light is shed on her relationship with the other partners of the quadrille by the fact that it is caught up in a subtle circulation of precious gifts, which serves to make up for a deficiency in sex  ual services. This circulation starts with her father in relation to Frau K, and then comes back to the patient through Herr K's consequent availability, in no way diminishing the lavish generosity which comes to her directly from the first source, by way of parallel gifts—this being the classic manner of mak  ing amends by which the bourgeois male manages to combine reparation due his lawful wedded wife with his concern for passing on an inheritance (note that the presence of the figure of the wife is reduced here to this lateral link in the chain of exchanges). -->
 ここで分かるのは、ドラがK氏からの求愛に参加し、その求愛の対象になっているということだけではない。四人組の他のパートナーたちに対するドラの関係が、〔父親の〕性的奉仕の不足を補うための貴重な贈り物の巧みな循環に巻き込まれている、という事実によって新しい光が当てられているのである。この循環は、彼女の父親から始まってK夫人へと関係し、その後、K氏のところで利用可能になって患者のもとに戻ってくるのだが、これは最初の供給源〔父親〕から直接彼女にもたらされる贅沢な気前よさを決して減じるものではない。これはパラレルな贈与という方法によってなされており、これはブルジョア男性が、正妻に対する償いと遺産相続の心配とを何とか結びつけるための古典的な方法である（ここでは妻という人物の存在が交換の鎖のこの横列に還元されていることに注意されたい）。
@@ -136,7 +136,7 @@
 この時点で彼女は皆に真実を認めさせたのだが、しかしそれが真実であっても最終的な真実ではないことを知っていた。そして彼女は、自分が姿を見せるという呪力によって、不幸なK氏を馬車の車輪の下に沈めることに成功したのだ。治療の第二段階でもたらされた彼女の症状の沈静化は、それにもかかわらず持続した。このように弁証法的過程の停止は見かけ上の後退をもたらしたが、奪回された位置は自我の肯定によってのみ保持され、それは進歩とみなすことができるのである。
 
 <!-- What then is this transference whose work, Freud states somewhere, goes on invisibly behind the progress of the treatment and whose effects, furthermore, are "not susceptible of definite proof " (p. 67)? 19 Can it not be considered here to be an entity altogether related to countertransference, defined as the sum total of the analyst's biases, passions, and difficulties, or even of his inadequate information, at any given moment in the dialectical process? Doesn't Freud himself tell us (p. 105) 20 that Dora might have transferred the paternal figure onto him, had he been foolish enough to believe the version of things her father had presented to him? -->
-では、フロイトがどこかで述べている、治療の進行の背後で**目に見えない形で**進行し、しかもその効果が「明確な証明はできない」（p.67[^19]）転移とは何なのだろうか。ここではそれは、弁証法的プロセスの任意の瞬間における分析者の偏見、情熱、困難、あるいは不十分な情報の総体として定義される逆転移と完全に相関するような存在だ、と考えることはできないだろうか。フロイト自身は、もし父親が自分に提示した物事のバージョンを信じるほど愚かであったなら、ドラが父親の姿を自分に転移したかもしれない（p. 105[^20]）と語ってはいなかっただろうか。
+では、フロイトがどこかで述べている、治療の進行の背後で**目に見えない形で**進行し、しかもその効果が「明確な証明はできない」（p.67[^19]）転移とは何なのだろうか。ここではそれは、弁証法的プロセスの任意の瞬間における分析者の偏見、情熱、困難、あるいは不十分な情報の総体として定義される逆転移と完全に相関するような存在だ、と考えることはできないだろうか。フロイト自身、もし父親が自分に提示した物事の説明を信じるほど愚かであったなら、ドラが父親の姿を自分に転移したかもしれない（p. 105[^20]）と語ってはいなかっただろうか。
 
 <!-- In other words, transference is nothing real in the subject if not the appearance, at a moment of stagnation in the analytic dialectic, of the permanent modes according to which she constitutes her objects. -->
 言い換えれば、分析的弁証法が停滞しているときに主体が自分の対象を構成する永続的な様式が現れるのでなければ、主体にとって転移は現実的なものではないのである。
@@ -163,7 +163,7 @@
 ドラの症例は、このことを示すのに特に適切である。これはヒステリーを扱ったものなので、自我のスクリーンは透明であり、フロイトが言ったように、無意識と意識の間の、あるいは分析的言説と症状の鍵<!-- ［mot］ -->の間の閾がこれ以上低くなることはないほどなのである。
 
 <!-- I believe, however, that transference always has the same meaning of indi  cating the moments where the analyst goes astray and takes anew his bearings, and the same value of reminding us of our role: that of a positive nonaction aiming at the ortho-dramatization of the patient's subjectivity. -->
-しかし、私は、転移はつねに同じ意味を持っていると信じている。すなわち、分析家が道を踏み外し、あらためて自分の位置を確認する契機を示すという意味と、私たちの役割、すなわち、患者の主観の正劇化を目指す積極的な無関与を思い起こさせるという同じ価値があるのだ。
+しかし、私は、転移はつねに同じ意味を持っていると信じている。すなわち、分析家が道を踏み外し、あらためて自分の位置を確認する契機を示すという意味と、私たちの役割、すなわち、患者の主体性の正劇化〔orthodramatisation〕を目指す積極的な無関与を思い起こさせるという同じ価値があるのだ。
 
 [^4]: PUF, 23-24; SE VII, 34-36.
 [^5]: PUF, 39; SE VII, 54.
