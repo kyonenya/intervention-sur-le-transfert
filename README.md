@@ -1,7 +1,7 @@
 **[ジャック・ラカン「転移に関する発表」『エクリ』](https://github.com/kyonenya/intervention-sur-le-transfert/blob/main/presentation-on-transference.md)**
 
 - Jacques Lacan (1951) « Intervention sur le transfert », *Écrits*, Éditions de Seuil, 1966. のほぼ全訳
-- ※ブルース・フィンクによる英訳（*Écrits: the first complete edition in English*, translated by Bruce Fink, WW Norton, 2006.）からの重訳
+    - ブルース・フィンクによる英訳（*Écrits: the first complete edition in English*, translated by Bruce Fink, WW Norton, 2006.）からの重訳
 - 訳出に際して以下の部分訳を参照：[転移に関する発言 - à la lettre](https://psychanalyse.hatenablog.com/entry/2007/09/02/000000)
 
 ---
