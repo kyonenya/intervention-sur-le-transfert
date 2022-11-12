@@ -1,10 +1,12 @@
 <!-- Presentation on Transference -->
-## 転移に関する発言
+## 転移に関する発表
 
-ジャック・ラカン
+**ジャック・ラカン**
 
 <!-- Given at the 1951 Congress of "Romance Language—Speaking Psychoanalysts " -->
-1951年「ロマンス語圏の精神分析家」会議での発表
+1951年「ロマンス語圏の精神分析家」会議にて
+
+---
 
 〔前略〕
 
@@ -67,7 +69,7 @@
 ここにあるのは、ドラがその生涯で演じたすべての状況を型取る想像的な鋳型であり、フロイトの著作にまだ登場していない、反復的自動症という理論の完璧な例証であるように思われる。その中で、女と男がいま彼女にとって何を意味するのかを測ることができる。
 
 <!-- Woman is the object which cannot be dissociated from a primitive oral desire, in which she must nevertheless learn to recognize her own genital nature. (It is surprising that Freud fails to see here that Dora's aphonia during Herr K's absences [p. 36] 7expressed the violent call of the oral erotic drive when Dora was left alone with Frau K, there being no need for him to assume she had seen her father receiving fellatio [p. 44], 8when everyone knows that cunnilingus is the artifice most commonly adopted by "rich men" [messieurs fortunes] when their powers begin to fail them.) In order for her to gain access to this recognition of her femininity, she would have to assume [assumer] her own body, failing which she remains open to the functional fragmentation (to refer to the theoretical contribution of the mirror stage) that constitutes conversion symptoms. -->
-女性は原始的な口唇的欲望から切り離すことのできない対象であり、その口唇的欲望の中で女性は自らの生殖的な性質を認識することを学ばなければならない（K夫人が不在の間のドラの失声症［p. 36[^7]］が、ドラがK夫人と二人きりになったときの口唇性愛衝動の激しい呼びかけを表していることに、フロイトが気づかなかったのは驚くべきことである。クンニリングスが「金持ちの男」［messieurs fortunes］が自分の力が衰え始めたときに最もよく採用する技法であることは誰もが知っているのだから、彼女が父親がフェラチオを受けているところを見たと仮定する必要はないのである［p.44[^8]］。
+女性は原始的な口唇的欲望から切り離すことのできない対象であり、その口唇的欲望の中で女性は自らの生殖的な性質を認識することを学ばなければならない（K夫人が不在の間のドラの失声症［p. 36[^7]］が、ドラがK夫人と二人きりになったときの口唇性愛衝動の激しい呼びかけを表していることに、フロイトが気づかなかったのは驚くべきことである。クンニリングスが「金持ちの男」<!-- ［messieurs fortunes］ -->が自分の力が衰え始めたときに最もよく採用する技法であることは誰もが知っているのだから、彼女が父親がフェラチオを受けているところを見たと仮定する必要はないのである［p.44[^8]］。
 
 <!-- Now, her only means for gaining this access was via her earliest imago, which shows us that the only path open to her to the object was via the masculine partner, with whom, because of their difference in age, she was able to identify, in that primordial identification through which the subject recognizes herself as I... -->
 さて、彼女がこのアクセスを得るための唯一の手段は、最古のイマーゴを経由することであった。このイマーゴが私たちに示しているのは、彼女にとって対象への唯一の道は、その年齢差ゆえに彼女が同一化することができた男性のパートナーを通じてだということである。それは主体が自分自身を私として認識するような原初的な同一化である。

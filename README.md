@@ -1,12 +1,10 @@
-[ジャック・ラカン「転移に関する発言」（『エクリ』所収）](https://github.com/kyonenya/intervention-sur-le-transfert/blob/main/presentation-on-transference.md)
+**[ジャック・ラカン「転移に関する発表」『エクリ』](https://github.com/kyonenya/intervention-sur-le-transfert/blob/main/presentation-on-transference.md)**
 
-Jacques Lacan (1951) « Intervention sur le transfert », *Écrits*〔ラカン「転移に関する発言」『エクリ』所収〕, Éditions de Seuil, 1966. のほぼ全訳
+- Jacques Lacan (1951) « Intervention sur le transfert », *Écrits*, Éditions de Seuil, 1966. のほぼ全訳
+- ※ブルース・フィンクによる英訳（*Écrits: the first complete edition in English*, translated by Bruce Fink, WW Norton, 2006.）からの重訳
+- 訳出に際して以下の部分訳を参照：[転移に関する発言 - à la lettre](https://psychanalyse.hatenablog.com/entry/2007/09/02/000000)
 
-※ブルース・フィンクによる英訳（*Écrits: the first complete edition in English*, translated by Bruce Fink, WW Norton, 2006.）からの重訳
-
-訳出に際して以下の部分訳を参照：[転移に関する発言 - à la lettre](https://psychanalyse.hatenablog.com/entry/2007/09/02/000000)
-
-----
+---
 
 > ただ、フロイトは、彼自身の告白によれば、ドラの欲望の対象に関し、ある誤りを犯しています。それは、フロイト自身、対象という問題に関心を集中していたからです。つまり、そこに含まれている根本的な主体の二重性を介入させなかったからです。フロイトは、**ドラの中で誰が欲望しているのか**ということではなくて、ドラは何を欲望しているのかということを問うていました。そしてフロイトは結局次のことに思い至ります。つまりドラとその父、K夫妻から成る四人組のバレーの中で、K氏に自身を同一化していたドラの興味を、真にひいている対象はK夫人だということです。ドラの<ruby>自我<rt>モワ</rt></ruby>がどこにあるのかという問いは、こうして解決されました。つまり、ドラの<ruby>自我<rt>モワ</rt></ruby>、それはK氏です。（ジャック・ラカン〔1955–1956〕『精神病』下: 28頁、岩波書店。強調引用者）
 
