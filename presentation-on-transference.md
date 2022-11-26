@@ -6,12 +6,10 @@
 <!-- Given at the 1951 Congress of "Romance Language—Speaking Psychoanalysts " -->
 1951年「ロマンス語圏の精神分析家」会議にて
 
----
-
 〔前略〕
 
 <!-- It is striking that heretofore no one has stressed that the case of Dora is laid out by Freud in the form of a series of dialectical reversals. This is not a mere contrivance for presenting material whose emergence is left up to the patient, as Freud clearly states here. What is involved is a scansion of structures in which truth is transmuted for the subject, structures that affect not only her comprehension of things, but her very position as a subject, her "objects" being a function of that position. This means that the conception of the case history is identical to the progress of the subject, that is, to the reality of the treatment. -->
-このドラの症例がフロイトによって弁証法的裏返しの連続という形で提示されている、ということをこれまで誰も強調しなかったのは驚くべきことである。フロイトがここで明確に述べているように、これは、その出現が患者に任されているところの材料を提示するための単なる工夫ではない。これが含んでいるのは或る構造の韻律分析〔スカンシオン〕であり、それは彼女〔ドラ〕の物事の理解に影響するだけでなく、彼女の「対象」がその位置の機能であるような主体としての彼女の位置そのものに影響を与える。つまり、症例の理解は、主体の歩み、すなわち治療の現実と**同一**なのである。
+このドラの症例がフロイトによって弁証法的裏返しの連続という形で提示されている、ということをこれまで誰も強調しなかったのは驚くべきことである。フロイトがここで明確に述べているように、これは、その出現が患者に任されているところの材料を提示するための単なる工夫ではない。これが含んでいるのは或る構造の区切り方〔scansion〕であり、それは彼女〔ドラ〕の物事の理解に影響するだけでなく、彼女の「対象」がその位置の機能であるような主体としての彼女の位置そのものに影響を与える。つまり、症例の理解は、主体の歩み、すなわち治療の現実と**同一**なのである。
 
 <!-- Now, this is the first time Freud uses the term "transference" as the con  cept of the obstacle owing to which the analysis broke down. This alone gives the examination I will conduct here of the dialectical relations that constituted the moment of failure its value, at the very least, as a return to the source. I will attempt hereby to define in terms of pure dialectic the transference that is said to be negative on the part of the subject as the doing [operation] of the analyst who interprets it. -->
 ところで、フロイトが、それが原因で分析が破綻してしまうような障害の概念として「転移」という言葉を使ったのはこのときが初めてである。このことだけでも、私がここで行う、失敗の瞬間を構成した弁証法的関係の検討は、少なくとも、起源への回帰としての価値を持つことになる。私はここで、この主体〔ドラ〕においては陰性転移だと言われる転移を、それを解釈する分析家の操作<!-- ［operation］ -->として、**純粋弁証法の観点から定義**しようと思う。
@@ -36,9 +34,9 @@
 
 ```
 〔訳者注〕
-Ｋ夫人→Ｋ氏
-　↑　　 ↓
-　父　　ドラ
+【ドラ一家】【Ｋ一家】
+　　父　　⇦　Ｋ夫人
+　　ドラ　⇨　Ｋ氏
 ```
 
 <!-- At the same time Dora's Oedipal relation turns out to be grounded in an identification with her father, which is fostered by his sexual impotence and is, moreover, experienced by Dora as identical to his supervalent status as rich; this is betrayed by the unconscious allusion Dora is allowed by the semantics of the word "rich" [fortune] in German: Vermogen. Indeed, this identification was apparent in all the conversion symptoms presented by Dora, a large num  ber of which were removed by this discovery. -->
@@ -126,7 +124,7 @@
 どのような妥当な解釈においてもそうであるように、理解するためには私たちはテクストに忠実でなければならない。K氏はほんの数言しか喋れなかったが、決定的だったのはこれである。「妻など私にとっては何でもない」。この功績に対して彼は即座に返礼を受け取った——平手打ちである（その焼けるような後遺症を、ドラは治療が終わった後も一過性の神経痛という形でずっと感じていた）。その平手打ちはこのうっかり屋にこう皮肉ったのである。「あなたにとって彼女が何でもないのなら、私にとってあなたとは何なのですか？」
 
 <!-- What then would he be to her, this puppet who had nonetheless just broken the spell she had been living under for years? -->
-それにしても、この〔K氏という〕操り人形は彼女にとって何なのだろうか。それは確かに、何年もかかってきた彼女の呪縛を解き放ったのだ。
+それにしても、この〔K氏という〕操り人形〔傀儡〕は彼女にとって何なのだろうか〔それ自体では何でもない〕。それは確かに、何年もかかってきた彼女の呪縛を解き放ったのだ。
 
 <!-- The latent pregnancy fantasy that followed this scene does not invalidate my interpretation, since it is well known that it occurs in hysterics precisely as a function of their identification with men. -->
 このシーンに続く潜在的な妊娠幻想は私の解釈を無効にするものではない。なぜなら、それはまさに男性との同一化の機能としてヒステリー者に起こることがよく知られているからである。
