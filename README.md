@@ -1,4 +1,4 @@
-**[ジャック・ラカン「転移に関する発言」（『エクリ』所収）の日本語訳](https://github.com/kyonenya/intervention-sur-le-transfert/blob/main/転移に関する発言.md)**（→[**Word版**](https://github.com/kyonenya/intervention-sur-le-transfert/blob/main_pandoc/intervention-sur-le-transfert.docx?raw=true)）
+**[ジャック・ラカン「転移に関する発言」（『エクリ』所収）の日本語訳](https://github.com/kyonenya/intervention-sur-le-transfert/blob/main/0_転移に関する発言.md)**（→[**Word版**](https://github.com/kyonenya/intervention-sur-le-transfert/blob/main_pandoc/intervention-sur-le-transfert.docx?raw=true)）
 
 - Jacques Lacan (1951) « Intervention sur le transfert », *Écrits*, Éditions de Seuil, 1966. のほぼ全訳
   - ブルース・フィンクによる英訳（*Écrits: the first complete edition in English*, translated by Bruce Fink, WW Norton, 2006.）を適宜参照した
